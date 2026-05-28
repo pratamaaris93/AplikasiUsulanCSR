@@ -60,7 +60,7 @@
   </div>
 
   <script>
-    const webAppUrl = 'https://script.google.com/macros/s/AKfycbyIENCHU8uJSXEmEEZ052IMlBculYwCNG2CPwCfNDym0hT19BORB2A-vfdNC4tkawXopw/exec';
+    const webAppUrl = "https://script.google.com/macros/s/AKfycbyIENCHU8uJSXEmEEZ052IMlBculYwCNG2CPwCfNDym0hT19BORB2A-vfdNC4tkawXopw/exec";
 
     fetch(webAppUrl)
       .then(res => {
